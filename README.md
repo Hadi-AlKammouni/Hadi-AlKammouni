@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="HTML5" width="35px" src="images/html.png" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="35px" src="images/css.jfif" style="padding-right:10px;" />
 <img align="left" alt="PYTHON" width="35px" src="images/python.jfif" style="padding-right:10px;" />
-
+--
 <h2>Statistics:</h2>
 <img align="left" alt="Hadi-Al Kammouni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hadi-AlKammouni&show_icons=true&theme=radical">
