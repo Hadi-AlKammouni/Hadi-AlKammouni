@@ -1,8 +1,11 @@
 <h2>Portfolio:</h2>
 <h3 align="center"> 👋 Hello, I’m @Hadi-AlKammouni </h3>
 - 👀 I’m interested in coding (◔◡◔).
+<br/>
 - 🌱 I’m currently learning FSW (full stack web development) at SE factory.
+<br/>
 - 💞️ I’m looking to collaborate with other developers.
+<br/>
 - 📫 I'll be glad if you reach me via hadialkammouni99@gmail.com .
 
 <!---
