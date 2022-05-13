@@ -11,5 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2><i class="fa-solid fa-check"></i> Languages:</h2>
+<h2>Languages:</h2>
 <img align="left" alt="HTML5" width="35px" src="images/html.png" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="35px" src="images/css.jfif" style="padding-right:10px;" />
+<img align="left" alt="PYTHON" width="35px" src="images/python.jfif" style="padding-right:10px;" />
