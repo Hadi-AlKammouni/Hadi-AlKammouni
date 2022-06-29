@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 Hello, I’m Hadi-AlKammouni </h3>
 <h3 align="center">A passionate full-stack developer from Lebanon</h3>
 
-<img align="center" alt="Coding" width="400" src="https://giphy.com/gifs/programmer-X6aCcZxwLh722EUiT6">
+<img align="center" alt="Coding" width="400" src="images\skatter-programmer.gif">
 
 - 👀 I'm **interested in coding (◔◡◔).**
 
