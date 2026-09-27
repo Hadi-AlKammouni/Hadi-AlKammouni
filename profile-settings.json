@@ -1,0 +1,9 @@
+{
+  "$comment": "GitHub profile header fields (applied with: gh api -X PATCH user --input <this minus pins/$comment>) and the repos to pin by hand.",
+  "name": "Hadi Al Kammouni",
+  "bio": "Full Stack Developer | AI Engineer · Angular, React, Node.js, LLM pipelines",
+  "blog": "https://hadi-alkammouni.web.app",
+  "location": "Beirut, Lebanon",
+  "hireable": true,
+  "pins": ["desknotes", "realtimeboard", "ng-uikit", "sales-portal", "arcvault-triage"]
+}

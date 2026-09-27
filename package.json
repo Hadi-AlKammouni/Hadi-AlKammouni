@@ -1,0 +1,16 @@
+{
+  "name": "hadi-alkammouni-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "languages": "node scripts/languages.mjs assets/preview",
+    "preview": "node scripts/preview.mjs"
+  },
+  "devDependencies": {
+    "@iconify-json/lucide": "^1.2.137",
+    "@iconify-json/simple-icons": "^1.2.97",
+    "sharp": "^0.35.4",
+    "simple-icons": "^16.32.0"
+  }
+}

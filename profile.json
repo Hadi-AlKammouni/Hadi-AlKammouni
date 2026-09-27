@@ -1,0 +1,428 @@
+{
+  "$comment": "Single source of truth for the profile. Edit, then run `npm run build` to regenerate README.md and assets/. Mirrors portfolio/src (site.config.ts, data/*.ts, content/projects).",
+  "github": "Hadi-AlKammouni",
+  "name": "Hadi Al Kammouni",
+  "role": "Full Stack Developer · AI Engineer",
+  "headline": "Full stack + AI engineer.",
+  "tagline": "I build products that hold up in production, and AI that knows when to ask a human.",
+  "intro": "Full stack developer in Beirut, front-end heavy. I spent 3+ years building a multi-country enterprise platform at ITXI (Angular, NgRx, Firebase, Electron), and now I also ship LLM pipelines where the model reads and plain code decides. Open to full-time and freelance work.",
+  "location": "Beirut, Lebanon",
+  "availability": "Open to full-time & freelance",
+  "typing": [
+    "Angular · React · Node.js",
+    "real-time sync & offline-first apps",
+    "LLM pipelines with a human in the loop"
+  ],
+  "code": [
+    [
+      "const",
+      " hadi",
+      " = {"
+    ],
+    [
+      "  role",
+      ": ",
+      "'Full stack + AI engineer'",
+      ","
+    ],
+    [
+      "  base",
+      ": ",
+      "'Beirut, Lebanon'",
+      ","
+    ],
+    [
+      "  shipping",
+      ": [",
+      "'Angular'",
+      ", ",
+      "'React'",
+      ", ",
+      "'Node.js'",
+      "],"
+    ],
+    [
+      "  ai",
+      ": [",
+      "'LLM APIs'",
+      ", ",
+      "'n8n'",
+      ", ",
+      "'Claude'",
+      "],"
+    ],
+    [
+      "  status",
+      ": ",
+      "'open to work'",
+      ","
+    ],
+    [
+      "};"
+    ]
+  ],
+  "links": [
+    {
+      "label": "Portfolio",
+      "href": "https://hadi-alkammouni.web.app",
+      "icon": "globe",
+      "primary": true
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/hadialkammouni/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Email",
+      "href": "mailto:hadialkammouni99@gmail.com",
+      "icon": "mail"
+    }
+  ],
+  "whatIDo": [
+    {
+      "icon": "layers",
+      "title": "Full stack apps",
+      "text": "Angular, React, and Node.js. Clean, tested, shipped."
+    },
+    {
+      "icon": "refresh-cw",
+      "title": "Real-time and offline",
+      "text": "Live sync, offline-first apps, Electron desktop."
+    },
+    {
+      "icon": "brain-circuit",
+      "title": "AI workflows",
+      "text": "LLMs read; plain code decides."
+    }
+  ],
+  "facts": [
+    {
+      "value": "3+ years",
+      "label": "enterprise front-end"
+    },
+    {
+      "value": "Multi-country",
+      "label": "production deployments"
+    },
+    {
+      "value": "< 1s",
+      "label": "real-time sync"
+    },
+    {
+      "value": "~1.2s",
+      "label": "LLM triage latency"
+    }
+  ],
+  "portfolioWork": "https://hadi-alkammouni.web.app/#work",
+  "projects": [
+    {
+      "title": "ArcVault AI Triage",
+      "cover": "arcvault.webp",
+      "blurb": "LLM pipeline that routes requests and escalates only what needs a human.",
+      "metric": {
+        "value": "~1.2s",
+        "label": "median latency"
+      },
+      "tags": [
+        "n8n",
+        "Groq LLM",
+        "Docker"
+      ],
+      "links": {
+        "video": "https://www.loom.com/share/8ba74ee489aa4cd89e17c99e573a1ef6",
+        "case": "https://hadi-alkammouni.web.app/work/arcvault-triage/",
+        "repo": "https://github.com/Hadi-AlKammouni/arcvault-triage"
+      }
+    },
+    {
+      "title": "Sales Portal",
+      "cover": "sales-portal.webp",
+      "blurb": "Client onboarding portal with a guided wizard that recovers from failure.",
+      "metric": {
+        "value": "2 paths",
+        "label": "guided onboarding"
+      },
+      "tags": [
+        "Angular",
+        "Tailwind",
+        "Playwright"
+      ],
+      "links": {
+        "case": "https://hadi-alkammouni.web.app/work/sales-portal/",
+        "repo": "https://github.com/Hadi-AlKammouni/sales-portal"
+      }
+    },
+    {
+      "title": "RealtimeBoard",
+      "cover": "realtimeboard.webp",
+      "blurb": "Live kanban: every change syncs to all users in under a second.",
+      "metric": {
+        "value": "< 1s",
+        "label": "sync across users"
+      },
+      "tags": [
+        "Angular",
+        "Firebase",
+        "Playwright"
+      ],
+      "links": {
+        "live": "https://realtimeboard-cfa4a.web.app",
+        "repo": "https://github.com/Hadi-AlKammouni/realtimeboard"
+      }
+    },
+    {
+      "title": "DeskNotes",
+      "cover": "desknotes.webp",
+      "blurb": "Offline-first markdown notes for web and Windows, syncing when back online.",
+      "metric": {
+        "value": "Offline-first",
+        "label": "web + Windows"
+      },
+      "tags": [
+        "Angular",
+        "Electron",
+        "Firestore"
+      ],
+      "links": {
+        "live": "https://desknotes-app-c4bcc.web.app",
+        "repo": "https://github.com/Hadi-AlKammouni/desknotes"
+      }
+    },
+    {
+      "title": "Ng-UIKit",
+      "cover": "ng-uikit.webp",
+      "blurb": "Accessible Angular component library with a live docs site.",
+      "metric": {
+        "value": "6",
+        "label": "accessible components"
+      },
+      "tags": [
+        "Angular",
+        "TypeScript",
+        "Playwright"
+      ],
+      "links": {
+        "live": "https://ng-uikit-docs.web.app",
+        "repo": "https://github.com/Hadi-AlKammouni/ng-uikit"
+      }
+    },
+    {
+      "title": "Vehicle Damage AI",
+      "cover": "vehicle-ai.svg",
+      "blurb": "Compares pickup and return photos and detects damage with YOLOv8.",
+      "metric": {
+        "value": "YOLOv8",
+        "label": "computer vision"
+      },
+      "tags": [
+        "NestJS",
+        "FastAPI",
+        "YOLOv8"
+      ],
+      "links": {
+        "live": "https://vehicle-frontend-0l5h.onrender.com/"
+      }
+    }
+  ],
+  "confidential": {
+    "title": "Visitors Management Platform",
+    "text": "Multi-country visitor and permit operations: real-time sync, biometric access, offline desktop. 3+ years, enterprise, under NDA.",
+    "href": "https://hadi-alkammouni.web.app/work/visitors-management-platform/"
+  },
+  "stack": [
+    {
+      "title": "Front end",
+      "items": [
+        [
+          "si:angular",
+          "Angular"
+        ],
+        [
+          "si:react",
+          "React"
+        ],
+        [
+          "si:typescript",
+          "TypeScript"
+        ],
+        [
+          "si:javascript",
+          "JavaScript"
+        ],
+        [
+          "si:redux",
+          "Redux"
+        ],
+        [
+          "si:ngrx",
+          "NgRx"
+        ],
+        [
+          "si:tailwindcss",
+          "Tailwind"
+        ],
+        [
+          "si:figma",
+          "Figma"
+        ]
+      ]
+    },
+    {
+      "title": "Back end & data",
+      "items": [
+        [
+          "si:nodedotjs",
+          "Node.js"
+        ],
+        [
+          "si:express",
+          "Express"
+        ],
+        [
+          "si:nestjs",
+          "NestJS"
+        ],
+        [
+          "si:python",
+          "Python"
+        ],
+        [
+          "si:fastapi",
+          "FastAPI"
+        ],
+        [
+          "si:php",
+          "PHP"
+        ],
+        [
+          "si:laravel",
+          "Laravel"
+        ],
+        [
+          "si:mysql",
+          "MySQL"
+        ],
+        [
+          "si:mongodb",
+          "MongoDB"
+        ],
+        [
+          "si:firebase",
+          "Firebase"
+        ]
+      ]
+    },
+    {
+      "title": "AI & automation",
+      "items": [
+        [
+          "lucide:brain-circuit",
+          "LLM APIs"
+        ],
+        [
+          "lucide:sparkles",
+          "Prompt design"
+        ],
+        [
+          "si:n8n",
+          "n8n"
+        ],
+        [
+          "si:yolo",
+          "YOLOv8"
+        ],
+        [
+          "si:claude",
+          "Claude"
+        ]
+      ]
+    },
+    {
+      "title": "Quality & delivery",
+      "items": [
+        [
+          "si:git",
+          "Git"
+        ],
+        [
+          "si:github",
+          "GitHub"
+        ],
+        [
+          "si:githubactions",
+          "CI/CD"
+        ],
+        [
+          "si:docker",
+          "Docker"
+        ],
+        [
+          "si:playwright",
+          "Playwright"
+        ],
+        [
+          "si:vitest",
+          "Vitest"
+        ],
+        [
+          "si:electron",
+          "Electron"
+        ],
+        [
+          "si:postman",
+          "Postman"
+        ]
+      ]
+    }
+  ],
+  "experience": {
+    "company": "ITXI",
+    "location": "Beirut, Lebanon",
+    "total": "3 yrs 6 mos",
+    "roles": [
+      {
+        "title": "Front-End Software Developer",
+        "period": "Jan 2024 – Apr 2026"
+      },
+      {
+        "title": "Junior Front-End Software Developer",
+        "period": "Jan 2023 – Dec 2023"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "period": "Nov 2022 – Dec 2022"
+      }
+    ],
+    "highlights": [
+      "Modernized a large Angular codebase to standalone components.",
+      "Migrated interfaces to real-time sync with Firebase across multi-country deployments.",
+      "Built reusable architectures for complex pages and integrated biometric fingerprint scanners.",
+      "Added offline desktop support with Electron and end-to-end tests with Playwright.",
+      "Use AI coding assistants (Claude, GitHub Copilot) daily for features, review, and refactoring."
+    ]
+  },
+  "education": [
+    {
+      "icon": "code-xml",
+      "title": "Full Stack & Computer Science bootcamps",
+      "org": "SE Factory",
+      "period": "2022"
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "B.Eng. Civil Engineering",
+      "org": "Islamic University of Lebanon",
+      "period": "2017 – 2022"
+    }
+  ],
+  "languages": {
+    "$comment": "Computed daily in CI from public, non-fork, non-archived repos pushed within the last `months` (rolling window).",
+    "months": 24,
+    "exclude": [
+      "Hadi-AlKammouni"
+    ],
+    "top": 6
+  },
+  "cta": "Building something that has to work offline, in real time, or with an LLM in the loop? Let's talk."
+}
